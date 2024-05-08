@@ -1,3 +1,6 @@
-# dice-roller-app
+# GC_LAB4
 
-The Dice Roller app built from the tutorials in the CS-360: Mobile Architecture and Programming course book.
+Created a Dice Roller App and implemented the following features. 
+1) Run a background task using WorkManager
+2) Play a sound when a button is clicked
+3) Display an animation
